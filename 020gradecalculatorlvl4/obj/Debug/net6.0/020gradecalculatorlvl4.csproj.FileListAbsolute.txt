@@ -1,0 +1,15 @@
+C:\HTL PRO\020gradecalculatorlvl4\bin\Debug\net6.0\020gradecalculatorlvl4.exe
+C:\HTL PRO\020gradecalculatorlvl4\bin\Debug\net6.0\020gradecalculatorlvl4.deps.json
+C:\HTL PRO\020gradecalculatorlvl4\bin\Debug\net6.0\020gradecalculatorlvl4.runtimeconfig.json
+C:\HTL PRO\020gradecalculatorlvl4\bin\Debug\net6.0\020gradecalculatorlvl4.dll
+C:\HTL PRO\020gradecalculatorlvl4\bin\Debug\net6.0\020gradecalculatorlvl4.pdb
+C:\HTL PRO\020gradecalculatorlvl4\obj\Debug\net6.0\020gradecalculatorlvl4.csproj.AssemblyReference.cache
+C:\HTL PRO\020gradecalculatorlvl4\obj\Debug\net6.0\020gradecalculatorlvl4.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL PRO\020gradecalculatorlvl4\obj\Debug\net6.0\020gradecalculatorlvl4.AssemblyInfoInputs.cache
+C:\HTL PRO\020gradecalculatorlvl4\obj\Debug\net6.0\020gradecalculatorlvl4.AssemblyInfo.cs
+C:\HTL PRO\020gradecalculatorlvl4\obj\Debug\net6.0\020gradecalculatorlvl4.csproj.CoreCompileInputs.cache
+C:\HTL PRO\020gradecalculatorlvl4\obj\Debug\net6.0\020gradecalculatorlvl4.dll
+C:\HTL PRO\020gradecalculatorlvl4\obj\Debug\net6.0\refint\020gradecalculatorlvl4.dll
+C:\HTL PRO\020gradecalculatorlvl4\obj\Debug\net6.0\020gradecalculatorlvl4.pdb
+C:\HTL PRO\020gradecalculatorlvl4\obj\Debug\net6.0\020gradecalculatorlvl4.genruntimeconfig.cache
+C:\HTL PRO\020gradecalculatorlvl4\obj\Debug\net6.0\ref\020gradecalculatorlvl4.dll
